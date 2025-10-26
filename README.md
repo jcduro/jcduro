@@ -41,7 +41,8 @@
 
 ## 📊 Lenguajes y Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,java,react,angular,mysql,postgres,sqlite,git,github,linux,vscode,figma,bootstrap,tailwind,tkinter&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,sqlite,git,github,linux,vscode,bootstrap,tailwind,tkinter,wordpress,photoshop,coreldraw,ubuntu,mint,windows,svg,atom,codepen,debian&theme=light&perline=8)](https://skillicons.dev)
+
 
 ---
 
