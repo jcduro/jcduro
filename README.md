@@ -2,6 +2,7 @@
 <h1 align="center">¡Hola, soy JcDuro! Code & ideas 👋!</h1>
 <p align="center">
   <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
+  <br>
   <img src="logoJCDBLUEletras.png" width="120" style="border-radius:50%">
   
   <br>
