@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola, soy JcDuro! Code & ideas 👋!</h1>
 <p align="center">
   <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
-  <img src="logoJCDBLUEletras" width="120" style="border-radius:50%">
+  <img src="logoJCDBLUEletras.png" width="120" style="border-radius:50%">
   
   <br>
   <b>Desarrollador Full Stack | UI/UX Designer | México & Colombia</b><br>
