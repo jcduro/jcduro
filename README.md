@@ -1,6 +1,8 @@
-<h1 align="center">¡Hola, soy Juan Carlos 👋!</h1>
+
+<h1 align="center">¡Hola, soy JcDuro! Code & ideas 👋!</h1>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/69373493?v=4" width="120" style="border-radius:50%">
+  <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
   <br>
   <b>Desarrollador Full Stack | UI/UX Designer | México & Colombia</b><br>
   🚀 Apasionado por la programación, el diseño y la tecnología. Amante de los datos y el software creativo.<br>
