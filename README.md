@@ -28,19 +28,19 @@ Code & ideas 👋!</h1>
 
 ## 🏆 Proyectos Destacados
 
-- [Gestor de Archivos PHP](https://github.com/jcduro/Gestor_de_Archivos_php)  
+- [Gestor de Archivos PHP](https://github.com/jcduro/Gestor_de_Archivos_PHP)  
   Gestor funcional y moderno para administrar archivos en el servidor.
 
-- [Login Neon](https://github.com/jcduro/Login_Neon)  
+- [Login Neon](https://github.com/jcduro/Login_Neon_CSS_Mysql_PHP)  
   Login con animación de cuadrícula y efecto visual único.
 
-- [Botones Neon](https://github.com/jcduro/Botones_neon)  
+- [Botones Neon](https://github.com/jcduro/Botones_Neon_CSS)  
   12 botones con impacto visual y efectos CSS.
 
-- [Calculadora de IMC](https://github.com/jcduro/Calculadora_de_IMC)  
+- [Calculadora de IMC](https://github.com/jcduro/Calculadora_de_IMC_Python)  
   App visual para calcular tu índice de masa corporal.
 
-- [Formulario con Tkinter y Excel](https://github.com/jcduro/Formulario_con_Tkinter_y_Excel)  
+- [Formulario con Tkinter y Excel](https://github.com/jcduro/Formulario_con_Tkinter_y_Excel_Python)  
   Registra y guarda información de usuarios en Excel desde interfaz Python.
 
 ---
