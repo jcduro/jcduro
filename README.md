@@ -75,6 +75,8 @@ Code & ideas 👋!</h1>
 
 ---
 
+## 🏆 Trofeos de GitHub
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=jcduro&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
