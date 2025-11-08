@@ -26,6 +26,13 @@ Code & ideas 👋!</h1>
 
 ---
 
+### Idiomas que hablo
+
+![ESPAÑOL](https://img.shields.io/badge/Español-nativo-red?style=for-the-badge&logo=google-translate)
+![INGLÉS](https://img.shields.io/badge/Inglés-Intermedio-blue?style=for-the-badge&logo=google-translate)
+
+---
+
 ## 🏆 Proyectos Destacados
 
 - [Gestor de Archivos PHP](https://github.com/jcduro/Gestor_de_Archivos_PHP)  
@@ -65,6 +72,10 @@ Code & ideas 👋!</h1>
 - 🔗 [Sitio web](https://jcduro.bexartideas.com/index.php)
 - 💬 [Facebook](https://www.facebook.com/profile.php?id=61581848413029)
 - 📨 **Correo:** jcreduro@gmail.com
+
+---
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=jcduro&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
