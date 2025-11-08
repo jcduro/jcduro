@@ -54,10 +54,9 @@ Code & ideas 👋!</h1>
 
 ## 🚩 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcduro&show_icons=true&title_color=00c3ff&icon_color=f0fafb&bg_color=292929&text_color=ffffff&hide_title=true" height="135">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcduro&layout=compact&bg_color=292929&text_color=ffffff" height="120">
-</p>
+![JC Duro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcduro&show_icons=true&theme=tokyonight&hide=prs,issues&border_radius=20&custom_title=Estadísticas%20de%20JC%20Duro)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jcduro&layout=compact&theme=radical)
+
 
 ---
 
