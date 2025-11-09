@@ -54,7 +54,7 @@ Code & ideas 👋!</h1>
 
 ## 📊 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,sqlite,git,github,linux,vscode,bootstrap,wordpress,photoshop,ubuntu,mint,windows,svg,atom,codepen,debian&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,react,java,mysql,sqlite,git,github,linux,vscode,bootstrap,wordpress,photoshop,ubuntu,mint,windows,svg,atom,codepen,debian&theme=light&perline=8)](https://skillicons.dev)
 
 
 ---
