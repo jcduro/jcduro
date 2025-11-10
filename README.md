@@ -3,7 +3,7 @@
   <br>
 Code & ideas 👋!</h1>
 <p align="center">
-  <img alt="pacman contribution graph" src="pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="contri.svg">
   
   <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
   <br>
