@@ -3,6 +3,8 @@
   <br>
 Code & ideas 👋!</h1>
 <p align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
+  
   <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
   <br>
   <img src="logoJCDBLUEletras.png" width="120" style="border-radius:50%">
