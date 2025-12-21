@@ -77,11 +77,11 @@ Code & ideas 👋!</h1>
 
 ---
 
-<!-- ## 🏆 GitHub Trophies
+- ## 🏆 GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=jcduro&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
  -->
----
+
 
 <p align="center">
   ¡Thank you for visiting my profile!<br>
