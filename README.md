@@ -79,7 +79,7 @@ Code & ideas 👋!</h1>
 
 - ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?jcduro=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?jcduro=ryo-ma&theme=dracula)]
 
 
 <p align="center">
