@@ -55,13 +55,20 @@ foreach ($repos as $repo) {
 arsort($languagesMap);
 $topLanguages = array_slice($languagesMap, 0, 5, true);
 
-// Convertir a “porcentaje” para las barras (0–100)
+// Guardar el número REAL de repos por lenguaje
 $maxReposLang = $topLanguages ? max($topLanguages) : 1;
 
 $skills = [];
 foreach ($topLanguages as $lang => $count) {
-    $skills[$lang] = (int) round($count * 100 / $maxReposLang);
+    // value_real = número de repos en ese lenguaje
+    // value_norm = valor normalizado 0–100 para la ALTURA de la barra
+    $skills[$lang] = [
+        'real' => (int) $count,
+        'norm' => (int) round($count * 100 / $maxReposLang),
+    ];
 }
+
+
 
 // =============== 2. VALORES PARA MOSTRAR EN LA TARJETA ===============
 
@@ -86,8 +93,14 @@ $barWidth = (($width - $paddingLeft - $paddingRight) - ($barGap * ($barCount - 1
 $barsSvg = '';
 $index   = 0;
 
-foreach ($skills as $label => $value) {
-    $barHeight = max(0, min(100, $value)) * $chartHeight / 100;
+$barsSvg = '';
+$index   = 0;
+
+foreach ($skills as $label => $data) {
+    $valueReal = $data['real']; // número de repos
+    $valueNorm = $data['norm']; // 0–100 para altura
+
+    $barHeight = max(0, min(100, $valueNorm)) * $chartHeight / 100;
 
     $x = $paddingLeft + $index * ($barWidth + $barGap);
     $y = $paddingTop + ($chartHeight - $barHeight);
@@ -100,7 +113,7 @@ foreach ($skills as $label => $value) {
               rx="6" fill="url(#barGradient)" />
         <text x="' . ($x + $barWidth / 2) . '" y="' . ($y - 6) . '"
               fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
-          ' . $value . '
+          ' . $valueReal . '
         </text>
         <text x="' . ($x + $barWidth / 2) . '" y="' . ($paddingTop + $chartHeight + 14) . '"
               fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
@@ -111,6 +124,7 @@ foreach ($skills as $label => $value) {
 
     $index++;
 }
+
 
 $svg  = '';
 $svg .= '<svg width="' . $width . '" height="' . $height . '" xmlns="http://www.w3.org/2000/svg">' . "\n";
