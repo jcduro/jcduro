@@ -82,7 +82,7 @@ Code & ideas 👋!
 ## 🎖️ Want to get in touch?
 
 - 🔗 [Website](https://jcduro.bexartideas.com/index.php)
-- 🎯 [Facebook](https://www.facebook.com/profile.php?id=615818484139290)
+- 🎯 [Facebook](https://www.facebook.com/profile.php?id=61581848413029)
 - 📧 **E-mail:** jcreyedurog@gmail.com
 
 ---
