@@ -70,8 +70,30 @@ Code & ideas 👋!
 ---
 
 ## 📊 Statistics
-<a href="https://github.com/jcduro"><img alt="JC Duro's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jcduro&show_icons=true&count_private=true&theme=tokyonight" /></a>
-<a href="https://github.com/jcduro"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcduro&layout=compact&theme=tokyonight" /></a>
+
+## Estadísticas & Tecnologías
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jcduro&show_icons=true&theme=tokyonight&hide_title=true" 
+    alt="Estadísticas de GitHub de jcduro" 
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcduro&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Lenguajes más usados de jcduro"
+    height="150"
+  />
+</p>
+
+### Tecnologías que uso
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,react,bootstrap,git,github" height="32" alt="tecnologías" />
+</p>
+
+
+
 
 ## 🎖️ Want to get in touch?
 
