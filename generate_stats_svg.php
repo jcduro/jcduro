@@ -1,10 +1,22 @@
 <?php
 
-// Aquí pondrás tus números reales (por ahora manuales)
-$commits   = 1234;
-$projects  = 8;
-$mainStack = 'PHP · JS · React · Python';
-$today     = date('Y-m-d');
+$username = 'jcduro';
+$repos = fetchGithubJson("https://api.github.com/users/{$username}/repos?per_page=100");
+
+$totalRepos   = count($repos);
+$totalStars   = 0;
+$languagesMap = [];
+
+foreach ($repos as $repo) {
+    $totalStars += (int)($repo['stargazers_count'] ?? 0);
+    $lang = $repo['language'] ?? 'Other';
+
+    if (!isset($languagesMap[$lang])) {
+        $languagesMap[$lang] = 0;
+    }
+    $languagesMap[$lang] += 1;
+}
+
 
 $svg = <<<SVG
 <svg width="500" height="160" xmlns="http://www.w3.org/2000/svg">
