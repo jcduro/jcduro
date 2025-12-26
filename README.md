@@ -5,8 +5,6 @@ Code & ideas 👋!
 
 <p align="center">
 
-## Mis contribuciones en modo Pac-Man
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
