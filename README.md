@@ -12,15 +12,19 @@ Code & ideas 👋!
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
 </picture>
+</p>
 
 <p align="center"> 
 <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
 <br>
 <img src="logoJCDBLUEletras.png" width="120" style="border-radius:50%">
+</p>
 
 <br>
 <br>
 
+<p align="center">
+  
 <b>Developer Full Stack | UI/UX Designer | Colombia</b>
 <br>
 
