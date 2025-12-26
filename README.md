@@ -72,10 +72,7 @@ Code & ideas 👋!
 
 ## 📊 Statistics
 
-![Stats jcduro](## Mis estadísticas propias
-
-![Stats jcduro](https://raw.githubusercontent.com/jcduro/jcduro/main/assets/stats-jcduro.svg)
-
+![JC Duro's Custom Developer Stats](assets/stats-jcduro.svg)
 
 
 ## 🎖️ Want to get in touch?
