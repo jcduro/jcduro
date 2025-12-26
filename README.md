@@ -71,27 +71,7 @@ Code & ideas 👋!
 
 ## 📊 Statistics
 
-## Estadísticas & Tecnologías
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jcduro&show_icons=true&theme=tokyonight&hide_title=true" 
-    alt="Estadísticas de GitHub de jcduro" 
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcduro&layout=compact&langs_count=8&theme=tokyonight"
-    alt="Lenguajes más usados de jcduro"
-    height="150"
-  />
-</p>
-
-### Tecnologías que uso
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,react,bootstrap,git,github" height="32" alt="tecnologías" />
-</p>
-
+![Stats jcduro](https://raw.githubusercontent.com/jcduro/jcduro/main/assets/stats-jcduro.svg)
 
 
 
