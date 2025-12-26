@@ -6,10 +6,11 @@ Code & ideas 👋!</h1>
  ## Mis contribuciones en modo Pac-Man
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[jcduro]/[jcduro]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[jcduro]/[jcduro]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[jcduro]/[jcduro]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
 </picture>
+
 
   
   <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
