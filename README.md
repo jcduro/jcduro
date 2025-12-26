@@ -72,6 +72,8 @@ Code & ideas 👋!
 
 ## 📊 Statistics
 
+<p align="center">
+  
 ![JC Duro's Custom Developer Stats](assets/stats-jcduro.svg)
 
 
