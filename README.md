@@ -62,9 +62,10 @@ Code & ideas 👋!
 
 ---
 
-## 💻 Languages and Tools
+## 📊 Languages and Tools
 
-![](https://img.shields.io/badge/Code-HTML/CSS/JS/PHP/Python/React/Java/MySQL/SQLite/Git/GitHub/Linux/VSCode/Bootstrap/WordPress/Photoshop/Ubuntu/Mint/Windows/SVG/Atom/Codepen/Debian-informational?style=for-the-badge&logo=skillicons&logoColor=white&labelColor=black)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,react,java,mysql,sqlite,git,github,linux,vscode,bootstrap,wordpress,photoshop,ubuntu,mint,windows,svg,atom,codepen,debian&theme=light&perline=8)](https://skillicons.dev)
+
 
 ---
 
