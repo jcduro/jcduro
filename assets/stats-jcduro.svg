@@ -1,22 +1,96 @@
-<svg width="500" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020617"/>
-      <stop offset="100%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#04D9FF"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="barGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#04D9FF"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
     </linearGradient>
   </defs>
-
-  <rect width="500" height="150" fill="url(#bg)" rx="18" />
-
-  <text x="24" y="40" fill="#04D9FF" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect x="1" y="1" width="598" height="218" rx="20"
+        fill="url(#bg)" stroke="url(#borderGradient)" stroke-width="2" />
+  <text x="24" y="32" fill="#E5E7EB" font-size="18"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
     jcduro · Developer Stats
   </text>
-
-  <text x="24" y="75" fill="#E5E7EB" font-size="14" font-family="monospace">
-    Commits: 1234   ·   Projects: 8
+  <text x="24" y="54" fill="#9CA3AF" font-size="13" font-family="monospace">
+    Projects: 22   ·   Stars: 16   ·   Stack: CSS · Python · PHP · JavaScript · Hack
   </text>
 
-  <text x="24" y="100" fill="#E5E7EB" font-size="14" font-family="monospace">
-    Stack: PHP · JS · React · Python
+      <g>
+        <rect x="32" y="70" width="94.4" height="110"
+              rx="6" fill="url(#barGradient)" />
+        <text x="79.2" y="64"
+              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
+          100
+        </text>
+        <text x="79.2" y="194"
+              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
+          CSS
+        </text>
+      </g>
+    
+      <g>
+        <rect x="142.4" y="70" width="94.4" height="110"
+              rx="6" fill="url(#barGradient)" />
+        <text x="189.6" y="64"
+              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
+          100
+        </text>
+        <text x="189.6" y="194"
+              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
+          Python
+        </text>
+      </g>
+    
+      <g>
+        <rect x="252.8" y="88.7" width="94.4" height="91.3"
+              rx="6" fill="url(#barGradient)" />
+        <text x="300" y="82.7"
+              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
+          83
+        </text>
+        <text x="300" y="194"
+              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
+          PHP
+        </text>
+      </g>
+    
+      <g>
+        <rect x="363.2" y="125" width="94.4" height="55"
+              rx="6" fill="url(#barGradient)" />
+        <text x="410.4" y="119"
+              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
+          50
+        </text>
+        <text x="410.4" y="194"
+              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
+          JavaScript
+        </text>
+      </g>
+    
+      <g>
+        <rect x="473.6" y="161.3" width="94.4" height="18.7"
+              rx="6" fill="url(#barGradient)" />
+        <text x="520.8" y="155.3"
+              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
+          17
+        </text>
+        <text x="520.8" y="194"
+              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
+          Hack
+        </text>
+      </g>
+    
+  <text x="576" y="204" fill="#6B7280" font-size="11"
+        font-family="monospace" text-anchor="end">
+    Updated: 2025-12-26
   </text>
 </svg>
