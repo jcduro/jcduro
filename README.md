@@ -72,6 +72,8 @@ Code & ideas 👋!
 
 ## 📊 Statistics
 
+![Stats jcduro](## Mis estadísticas propias
+
 ![Stats jcduro](https://raw.githubusercontent.com/jcduro/jcduro/main/assets/stats-jcduro.svg)
 
 
