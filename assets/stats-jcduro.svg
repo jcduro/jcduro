@@ -1,0 +1,22 @@
+<svg width="500" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="500" height="150" fill="url(#bg)" rx="18" />
+
+  <text x="24" y="40" fill="#04D9FF" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    jcduro · Developer Stats
+  </text>
+
+  <text x="24" y="75" fill="#E5E7EB" font-size="14" font-family="monospace">
+    Commits: 1234   ·   Projects: 8
+  </text>
+
+  <text x="24" y="100" fill="#E5E7EB" font-size="14" font-family="monospace">
+    Stack: PHP · JS · React · Python
+  </text>
+</svg>
