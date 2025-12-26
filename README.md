@@ -70,10 +70,8 @@ Code & ideas 👋!
 ---
 
 ## 📊 Statistics
-![Estadísticas de JC Duro](https://github-readme-stats.vercel.app/api?username=jcduro&show_icons=true&theme=tokyonight&locale=es)
-
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jcduro&layout=compact&theme=tokyonight&locale=es)](https://github.com/jcduro)
-
+<a href="https://github.com/jcduro"><img alt="JC Duro's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jcduro&show_icons=true&count_private=true&theme=tokyonight" /></a>
+<a href="https://github.com/jcduro"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcduro&layout=compact&theme=tokyonight" /></a>
 
 ## 🎖️ Want to get in touch?
 
