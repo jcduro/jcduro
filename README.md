@@ -3,6 +3,10 @@
 Code & ideas 👋!
 </h1>
 
+<a href="https://github.com/jcduro">
+  <img height="20" src="https://komarev.com/ghpvc/?username=jcduro">
+</a>
+
 <p align="center">
 
 <picture>
