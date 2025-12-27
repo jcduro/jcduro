@@ -73,7 +73,15 @@ Code & ideas 👋!
 ## 📊 Languages and Tools
 
 <div align="center" style="margin: 3.5rem 3;">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,react,java,mysql,sqlite,git,github,linux,vscode,bootstrap,wordpress,photoshop,ubuntu,mint,windows,svg,atom,codepen,debian&theme=light&perline=8)](https://skillicons.dev)
+ <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,java,mysql,sqlite,git,github,linux,vscode,bootstrap,wordpress,photoshop,ubuntu,mint,windows,svg,atom,codepen,debian&theme=light&perline=8)](https://skillicons.dev)
+</div>
+
+---
+
+📈 Activity Metrics
+
+<!-- Full-width Graph Section --> 
+<div align="center" style="margin: 2rem 0;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcduro&theme=react-dark&area=true&hide_border=true&custom_title=Development+Intensity+Chart&width=200%&height=300&radius=16&color=37B9CC&bg_color=00000000&line=8A63D2&point=FF6B6B&title_color=37B9CC" width="100%" /> 
 </div>
 
 ---
@@ -84,6 +92,7 @@ Code & ideas 👋!
   
 ![JC Duro's Custom Developer Stats](assets/stats-jcduro.svg)
 
+---
 
 ## 🎖️ Want to get in touch?
 
