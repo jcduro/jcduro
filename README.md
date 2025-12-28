@@ -216,4 +216,6 @@
 
 - ## 🏅 Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jcduro&theme=dark_dimmed&row=2&column=3&margin-w=15&margin-h=15&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-trophies.vercel.app/?username=jcduro&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+
+---
