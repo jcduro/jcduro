@@ -72,10 +72,6 @@ Code & ideas 👋!
 
 ## 📊 Languages and Tools
 
-<div align="center" style="margin: 3.5rem 3;">
- <img src="https://skillicons.dev/icons?i=php,github,linux,vscode,bootstrap,wordpress,photoshop,ubuntu,mint,windows,svg,atom,codepen,debian&theme=dark&perline=10" alt="Tech Stack" /> </div> 
-
-
 <p align="center">
 <table align="center">
   <tr height="80">
