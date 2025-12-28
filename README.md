@@ -183,9 +183,6 @@ Code & ideas 👋!
       <img src="https://techstack-generator.vercel.app/java-icon.svg" title="Java" alt="Java" width="55" height="55" />
     </td>
     <td align="center" width="90">
-      <img src="https://img.icons8.com/?size=100&id=0euWhhGcJjPm&format=png&color=000000" title="Solidity" alt="Solidity" width="55" height="55" />
-    </td>
-    <td align="center" width="90">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="55" height="55" />
     </td>
     <td align="center" width="90">
