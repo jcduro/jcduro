@@ -2,6 +2,13 @@
   <img height="20" src="https://komarev.com/ghpvc/?username=jcduro">
 </a>
 
+<div align="center">
+    <p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=jcduro&theme=metropolis&data=followers,repositories,stars,commits' />
+</p>    
+    <img width="1850" height="500" align="center" src="1234.jpg" alt="Jcduro"/>
+</div>
+
 <h1 align="center">Welcome to </h1>
 <p align="center"> 
 <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
