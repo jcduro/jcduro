@@ -6,8 +6,8 @@
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=jcduro&theme=metropolis&data=followers,repositories,stars,commits' />
 </p>    
-    <img width="1850" height="500" align="center" src="1234.jpg" alt="Jcduro"/>
 </div>
+<br/>
 
 <h1 align="center">Welcome to </h1>
 <p align="center"> 
@@ -18,7 +18,7 @@
 <br>
 
 ---
-
+<div align="center">
 <p align="center">
   
 <b>Developer Full Stack | UI/UX Designer | Colombia</b>
@@ -29,6 +29,7 @@
 🌐 <a href="https://jcduro.bexartideas.com/index.php">My portafolio</a> • 📍 Cali, Colombia
 
 </p>
+</div>
 
 <p align="center">
 <picture>
