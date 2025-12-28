@@ -83,7 +83,7 @@ Code & ideas 👋!
       <img src="https://techstack-generator.vercel.app/react-icon.svg" title="React" alt="React" width="55" height="55" />
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/php-icon.svg" title="Redux" alt="PHP" width="55" height="55" />
+       <img src="https://techstack-generator.vercel.app/php-icon.svg" title="PHP" alt="PHP" width="55" height="55" />
     </td>
     <td align="center" width="90">
       <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next.js" alt="Next.js" width="45" height="55"/>
