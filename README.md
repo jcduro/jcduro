@@ -39,6 +39,10 @@ Code & ideas 👋!
 
 ---
 
+![coding](./coding.gif)
+
+---
+
 ## ⚡ About me
 
 👨‍💻 Web developer focused on frontend and backend: HTML, CSS, JavaScript, PHP, Python, Angular and React.
