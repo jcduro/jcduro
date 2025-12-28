@@ -202,14 +202,15 @@
 
 ## 📊 Statistics
 
+<div align="center">
 <p align="center">
   
 ![JC Duro's Custom Developer Stats](assets/stats-jcduro.svg)
 
 <!-- Full-width Graph Section --> 
 <div align="center" style="margin: 2rem 0;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcduro&theme=react-dark&area=true&hide_border=true&custom_title=Development+Intensity+Chart&width=200%&height=300&radius=16&color=37B9CC&bg_color=00000000&line=8A63D2&point=FF6B6B&title_color=37B9CC" width="100%" /> 
+</p>
 </div>
-
 
 ---
 
