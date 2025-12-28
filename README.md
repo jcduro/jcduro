@@ -2,27 +2,14 @@
   <img height="20" src="https://komarev.com/ghpvc/?username=jcduro">
 </a>
 
-
-<h1 align="center">Hello, I'm </h1>
-
+<h1 align="center">Welcome to </h1>
 <p align="center"> 
 <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
 <br>
 <img src="logoJCDBLUEletras.png" width="120" style="border-radius:50%">
 </p>
-
-<br>
 <br>
 
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
-</picture>
-</p>
 ---
 
 <p align="center">
@@ -34,6 +21,14 @@
 
 🌐 <a href="https://jcduro.bexartideas.com/index.php">My portafolio</a> • 📍 Cali, Colombia
 
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 ---
