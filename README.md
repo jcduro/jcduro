@@ -3,19 +3,7 @@
 </a>
 
 
-<h1 align="center">Hello, I'm JcDuro!
-<br>
-Code & ideas 👋!
-</h1>
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
-</picture>
-</p>
+<h1 align="center">Hello, I'm </h1>
 
 <p align="center"> 
 <img src="logoJCDBLUE.png" width="120" style="border-radius:50%">
@@ -25,6 +13,17 @@ Code & ideas 👋!
 
 <br>
 <br>
+
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcduro/jcduro/output/pacman-contribution-graph.svg">
+</picture>
+</p>
+---
 
 <p align="center">
   
