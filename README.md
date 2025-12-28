@@ -73,7 +73,7 @@ Code & ideas 👋!
 ## 📊 Languages and Tools
 
 <div align="center" style="margin: 3.5rem 3;">
- <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,java,mysql,sqlite,git,github,linux,vscode,bootstrap,wordpress,photoshop,ubuntu,mint,windows,svg,atom,codepen,debian&theme=dark&perline=10" alt="Tech Stack" /> </div> 
+ <img src="https://skillicons.dev/icons?i=php,github,linux,vscode,bootstrap,wordpress,photoshop,ubuntu,mint,windows,svg,atom,codepen,debian&theme=dark&perline=10" alt="Tech Stack" /> </div> 
 
 
 <p align="center">
@@ -83,7 +83,7 @@ Code & ideas 👋!
       <img src="https://techstack-generator.vercel.app/react-icon.svg" title="React" alt="React" width="55" height="55" />
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" title="Redux" alt="Redux" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/php-icon.svg" title="Redux" alt="PHP" width="55" height="55" />
     </td>
     <td align="center" width="90">
       <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next.js" alt="Next.js" width="45" height="55"/>
