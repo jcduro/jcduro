@@ -3,11 +3,10 @@
 </a>
 
 <div align="center">
-    <p align='center'>
+<p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=jcduro&theme=metropolis&data=followers,repositories,stars,commits' />
 </p>    
 </div>
-<br/>
 
 <h1 align="center">Welcome to </h1>
 <p align="center"> 
