@@ -21,7 +21,7 @@
     jcduro · Developer Stats
   </text>
   <text x="24" y="54" fill="#9CA3AF" font-size="13" font-family="monospace">
-    Projects: 26   ·   Stars: 50   ·   Stack: CSS · Python · PHP · JavaScript · Hack
+    Projects: 27   ·   Stars: 51   ·   Stack: CSS · PHP · Python · JavaScript · Hack
   </text>
 
       <g>
@@ -38,15 +38,15 @@
       </g>
     
       <g>
-        <rect x="142.4" y="106.3" width="94.4" height="73.7"
+        <rect x="142.4" y="94.2" width="94.4" height="85.8"
               rx="6" fill="url(#barGradient)" />
-        <text x="189.6" y="100.3"
+        <text x="189.6" y="88.2"
               fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
-          6
+          7
         </text>
         <text x="189.6" y="194"
               fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
-          Python
+          PHP
         </text>
       </g>
     
@@ -59,7 +59,7 @@
         </text>
         <text x="300" y="194"
               fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
-          PHP
+          Python
         </text>
       </g>
     
@@ -91,6 +91,6 @@
     
   <text x="576" y="204" fill="#6B7280" font-size="11"
         font-family="monospace" text-anchor="end">
-    Updated: 2026-01-03
+    Updated: 2026-01-04
   </text>
 </svg>
