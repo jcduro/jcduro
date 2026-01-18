@@ -71,7 +71,8 @@
 
 - [Gestor de Archivos PHP](https://github.com/jcduro/Gestor_de_Archivos_PHP) - Gestor funcional y moderno para administrar archivos en el servidor.
 - [Login Neon](https://github.com/jcduro/Login_Neon_CSS_Mysql_PHP) - Login con animación de cuadrícula y efecto visual único.
-- [Botones Neon](https://github.com/jcduro/Botones_Neon_CSS) - Botones con diseño neon y efectos visuales modernos.
+- [Carrito Neon](https://github.com/jcduro/Carrito_PHP_MYSQL_JS) - Carrito con diseño neon y cards visuales modernos.
+- [Login Neon](https://github.com/jcduro/CRUD_PHP_MYSQL_JS) - CRUD con tablas responsivas, neon y moderno.
 
 ---
 
