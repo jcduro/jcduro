@@ -21,76 +21,24 @@
     jcduro · Developer Stats
   </text>
   <text x="24" y="54" fill="#9CA3AF" font-size="13" font-family="monospace">
-    Projects: 35   ·   Stars: 193   ·   Stack: PHP · CSS · Python · JavaScript · Hack
+    Projects: 2   ·   Stars: 0   ·   Stack: Other
   </text>
 
       <g>
-        <rect x="32" y="70" width="94.4" height="110"
+        <rect x="32" y="70" width="536" height="110"
               rx="6" fill="url(#barGradient)" />
-        <text x="79.2" y="64"
+        <text x="300" y="64"
               fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
-          12
-        </text>
-        <text x="79.2" y="194"
-              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
-          PHP
-        </text>
-      </g>
-    
-      <g>
-        <rect x="142.4" y="78.8" width="94.4" height="101.2"
-              rx="6" fill="url(#barGradient)" />
-        <text x="189.6" y="72.8"
-              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
-          11
-        </text>
-        <text x="189.6" y="194"
-              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
-          CSS
-        </text>
-      </g>
-    
-      <g>
-        <rect x="252.8" y="116.2" width="94.4" height="63.8"
-              rx="6" fill="url(#barGradient)" />
-        <text x="300" y="110.2"
-              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
-          7
+          2
         </text>
         <text x="300" y="194"
               fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
-          Python
-        </text>
-      </g>
-    
-      <g>
-        <rect x="363.2" y="152.5" width="94.4" height="27.5"
-              rx="6" fill="url(#barGradient)" />
-        <text x="410.4" y="146.5"
-              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
-          3
-        </text>
-        <text x="410.4" y="194"
-              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
-          JavaScript
-        </text>
-      </g>
-    
-      <g>
-        <rect x="473.6" y="171.2" width="94.4" height="8.8"
-              rx="6" fill="url(#barGradient)" />
-        <text x="520.8" y="165.2"
-              fill="#E5E7EB" font-size="11" text-anchor="middle" font-family="monospace">
-          1
-        </text>
-        <text x="520.8" y="194"
-              fill="#9CA3AF" font-size="11" text-anchor="middle" font-family="monospace">
-          Hack
+          Other
         </text>
       </g>
     
   <text x="576" y="204" fill="#6B7280" font-size="11"
         font-family="monospace" text-anchor="end">
-    Updated: 2026-04-13
+    Updated: 2026-04-14
   </text>
 </svg>
